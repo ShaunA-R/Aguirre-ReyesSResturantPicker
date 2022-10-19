@@ -5,10 +5,6 @@
 Console.Clear();
 
 
-//string[] resturant = {"Pizza Hut", "Dominoes", "lil Ceasers", "Papa Johns", "Piology", "Micheals pizza", "Eddies Pizza", "Costco Pizza", "Frozen Pizza", "Chuck e Cheese", 
-//"McDonalds", "Wendys", "Burger King", "Taco bell", "Jack in the Box", "Taco Truck", "Chipotle", "In and Out", "Carls JR", "Chic Fil A",
-//"Olive Garden", "Red Lobster", "Garlic Brothers", "Applebees", "Dennys", "IHOP", "The Habit", "Lumberjacks", "Black Bear Diner", "BJ's", };
-
 string pickAgain = "YES";
 while(pickAgain == "YES"){
     bool greatOptions = false;
