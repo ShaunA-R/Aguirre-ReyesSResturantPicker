@@ -1,0 +1,15 @@
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\bin\Debug\net6.0\Aguirre-ReyesSResturantPicker.exe
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\bin\Debug\net6.0\Aguirre-ReyesSResturantPicker.deps.json
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\bin\Debug\net6.0\Aguirre-ReyesSResturantPicker.runtimeconfig.json
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\bin\Debug\net6.0\Aguirre-ReyesSResturantPicker.dll
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\bin\Debug\net6.0\Aguirre-ReyesSResturantPicker.pdb
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.csproj.AssemblyReference.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.AssemblyInfoInputs.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.AssemblyInfo.cs
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.csproj.CoreCompileInputs.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.dll
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\refint\Aguirre-ReyesSResturantPicker.dll
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.pdb
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\Aguirre-ReyesSResturantPicker.genruntimeconfig.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSResturantPicker\obj\Debug\net6.0\ref\Aguirre-ReyesSResturantPicker.dll
